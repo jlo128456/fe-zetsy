@@ -18,3 +18,31 @@ body {
 }
 
 /* Write all remaining styles here */
+
+#copyright
+{
+	text-align: right;
+	color: blueviolet;
+}
+ div img
+{
+	border:5px solid ;
+	border-color: crimson;
+}
+h1
+{
+	color: chartreuse;
+}
+a img 
+{
+	width: auto;
+	height: auto;
+	background: none;
+	transition: width 2s, height 4s;
+}
+	
+a img:hover 
+{
+	width: 100px;
+	height: 100px;
+}
